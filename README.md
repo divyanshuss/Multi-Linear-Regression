@@ -7,7 +7,7 @@
 
 
 ```
-"mlr-50-states.py" :
+"mlr-code.py" :
 contains the python code. The code is created by using the concept of LabelEncoding and OneHotEncoding . 
 The categorical values df the feature "State" has been changed to dummy variables 
 for analysing and considering it has an important feature.

@@ -17,7 +17,7 @@ for analysing and considering it has an important feature.
 ***
 
 ```
-"50-States " :
+"50-Startups.csv " :
 This file contains the dataset to be analysed for machine learning
 
 ```
